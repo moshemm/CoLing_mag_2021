@@ -1,6 +1,7 @@
-### Занятие 5-6 (морфопасринг и UD)
+### Занятие 5-6 (морфопарcинг и UD)
 
-[Доска Miro по UD тагсету](https://miro.com/app/board/o9J_lmY4owk=/?invite_link_id=467493090536)
+[Доска Miro по UD тагсету](https://miro.com/app/board/o9J_lmY4owk=/?invite_link_id=467493090536).
+
 В `UD-Russian_tagset.md` тагсет UD для русского языка.
 
 #### Домашка
