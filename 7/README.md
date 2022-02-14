@@ -5,3 +5,5 @@
 2. [Системный Блок про Word2vec](https://sysblok.ru/knowhow/word2vec-pokazhi-mne-svoj-kontekst-i-ja-skazhu-kto-ty/)
 3. [RusVectores: предобученные контекстные вектора, семанические карты](https://rusvectores.org/ru/)
 4. [Блокнот по word2vec и теории](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem07/sem07_solution.ipynb)
+
+Домашка: в блокноте к этому заданию, содержит 3 задания - одно из них коллективное: собрать коллекцию текстов.
