@@ -1,5 +1,5 @@
 # CoLing_mag_2021
-## Materinals for Computational Linguistics Intro course for 1-year MA, Russian State University of Humanities.
+## Materials for Computational Linguistics Intro course for 1-year MA.
 
 1. Introduction. Tasks of CoLing and NLP
 2. Text data preprocessing
@@ -9,6 +9,9 @@
 6. Text/word vectors, embeddings (One-hot-encodings, Bag of words, TF-IDF, word2vec)
 
 Extra class: [Intro to ML: basic ML terms, linear regression](https://github.com/rsuh-python/ML_2021/tree/main/2)
+
+
+Russian
 
 ## Материалы по курсу "Введение в Компьютерную Лингвистику" для 1 года магистратуры РГГУ.
 
