@@ -10,8 +10,9 @@
 
 Extra class: [Intro to ML: basic ML terms, linear regression](https://github.com/rsuh-python/ML_2021/tree/main/2)
 
-
+---
 Russian
+---
 
 ## Материалы по курсу "Введение в Компьютерную Лингвистику" для 1 года магистратуры РГГУ.
 
